@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+OK9 - Nhà Cái Uy Tín Với Danh Mục Trò Chơi Phong Phú và Dịch Vụ Chất Lượng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`OK9 <https://xn--k9-kka.com/>`_ - một trong những nhà cái trực tuyến uy tín và phổ biến tại Việt Nam, được nhiều chơi tin tưởng và yêu thích. OK9 cung cấp một loạt các trò chơi từ cá cược thể thao, casino trực tuyến, đến các trò chơi xổ số và game bài đổi thưởng, giúp cho người chơi nhiều lựa chọn khác nhau và trò chơi giải trí trở nên hấp dẫn hơn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+OK9 không chỉ gây ấn tượng với giao diện thân thiện và dễ sử dụng, mà còn với các chương trình khuyến mãi hấp dẫn và chính sách hỗ trợ khách hàng tận tâm. Với cam kết đảm bảo tính minh bạch và an toàn, OK9 đã và đang xây dựng được niềm tin vững chắc từ cộng đồng người chơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 53 Đường số 57C, Tân Tạo, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0985433088. 
 
-.. toctree::
+Email: info@xn--k9-kka.com. 
 
-   usage
-   api
+Website: https://xn--k9-kka.com/
+
+#ok9 #nhacaiok9 #trangchuok9 #dangkyok9 #linkok9
